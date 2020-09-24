@@ -1,2 +1,27 @@
-# Fitness-Tracker
-This is the Fitness Tracker app. Which is a study's project with an entire angular app from scratch. It features users sign up where we specify e-mail password our birth date feature by a date picker and then of course also have to agree to the terms and conditions. And then we can log in and start exercises we choose from a set of exercises that's actually fetched from the server we started. We can cancel it if we want and we can of course do all the past exercises and we can even filter and sorties. That's a lot of cool features combined.
+# FitnessTracker
+
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.0.
+
+## Development server
+
+Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+
+## Code scaffolding
+
+Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+
+## Build
+
+Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+
+## Running unit tests
+
+Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+
+## Running end-to-end tests
+
+Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+
+## Further help
+
+To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
