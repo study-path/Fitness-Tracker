@@ -2,8 +2,7 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.0.
 
-![](src/assets/images/fitness_tracker_1.png) ![](src/assets/images/fitness_tracker_2.png)![](src/assets/images/fitness_tracker_3.png)
-![](src/assets/images/fitness_tracker_4.png)
+![](src/assets/images/4onorc.gif)
 
 ## Development server
 
